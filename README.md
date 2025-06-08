@@ -61,7 +61,7 @@ CREATE TABLE IF NOT EXISTS clientes (
   email VARCHAR(100)
 );
 
-🚀 Cómo ejecutar el sistema
+## 🚀 Cómo ejecutar el sistema
 Cloná este repositorio o descargalo
 
 Abrilo con NetBeans 25
@@ -72,8 +72,8 @@ Verificá que tu servidor XAMPP esté encendido (MySQL en ejecución)
 
 Ejecutá SistemaPedidosFX.java
 
-🙋‍♂️ Autor
+## 🙋‍♂️ Autor
 Felipe Pravisán – Estudiante de [nombre de tu institución si querés incluirla]
 
-📄 Licencia
+## 📄 Licencia
 Este proyecto es solo para fines educativos.
