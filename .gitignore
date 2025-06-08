@@ -1,0 +1,23 @@
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore temp files
+*.tmp
+*.bak
+*.swp
+
+# Ignore build and dist folders
+/build/
+/dist/
+
+# NetBeans-specific files
+.nbproject/private/
+nbproject/private/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
